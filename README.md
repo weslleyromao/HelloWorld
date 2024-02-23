@@ -14,12 +14,20 @@ Lista numerada:
 
 1. teste
 2. teste2
-   i. teste3
-   i. teste4
+   teste3
+   teste4
 999. teste5
+
+Lista demarcada:
+
+* teste
+* teste
+* teste
+  teste
+
 
 Lista de Tarefas:
 
-- [] Criar página pincipal
-- [] Criar página pincipa2
-- [] Criar página pincipa3
+- [x] Criar página pincipal
+- [ ] Criar página pincipa2
+- [x] Criar página pincipa3
